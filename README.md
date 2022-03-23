@@ -1,1 +1,1 @@
-getting strted wih creating react project
+React-project
